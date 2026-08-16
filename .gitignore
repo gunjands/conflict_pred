@@ -1,5 +1,9 @@
-# Data
-/data/
+# Ignore all data files but with an exception
+/data/*
+
+# Keep these specific data files or directories
+!/data/processed/
+
 
 # Mac OS-specific storage files
 .DS_Store
