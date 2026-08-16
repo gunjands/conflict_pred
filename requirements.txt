@@ -14,4 +14,8 @@ scikit-learn
 tqdm
 typer
 wbdata
+duckdb
+xlrd
+pathlib
+pyreadstat
 -e .
