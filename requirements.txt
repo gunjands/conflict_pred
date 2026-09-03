@@ -18,4 +18,5 @@ duckdb
 xlrd
 pathlib
 pyreadstat
+pyarrow
 -e .
